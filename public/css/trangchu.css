@@ -1,0 +1,59 @@
+body{
+    width: 100%;
+    height: auto;
+    background-color: #E3FFFE;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+.clr{
+    clear: both;
+}
+div{
+    border: black 1px solid;
+    margin: 10px 20px 10px 20px;
+}
+#content-top{
+    background-color: #84e2fb;
+    width: auto;
+}
+#logo{
+    height: 80px;
+    width: 500px;
+    float: left;
+}
+#account{
+    height: 50px;
+    width: 300px;
+    float: right;
+    
+}
+#content-menu{
+    background-color: #4dd5f9;
+}
+div ul li{
+    display: inline-block;
+    margin-left: 20px;
+}
+#advertise{
+    height: 100px;
+    width: auto;
+}
+#advertise2{
+    height: 100px;
+    width: auto;
+}
+#content{
+    height: 600px;
+    width: 1000px;
+    float: left;
+}
+#advertise-right{
+    height: 600px;
+    width: 130px;
+    float: left;
+}
+.adv{
+    height: 100px;
+    width: auto;
+}

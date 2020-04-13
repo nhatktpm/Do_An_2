@@ -1,0 +1,31 @@
+.body{
+    font-size: 16px ;    
+}
+.clr{
+clear: both; 
+}
+.logo{
+    height: 50px;
+    border: 1px black dotted;
+    margin: 0px auto;
+}
+.menu{
+    height: 50px;
+    border: 1px black dotted;
+}
+.cart{
+    height: 50px;
+    border: 1px black dotted;
+}
+.find{
+    height: 50px;
+    border: dotted black;
+}
+.content{
+    height: 50px;
+    border: 1px black dotted;
+}
+.adv{
+    height: 50px;
+    border: 1px black dotted;
+}

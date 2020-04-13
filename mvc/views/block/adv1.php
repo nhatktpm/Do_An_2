@@ -1,0 +1,1 @@
+<img class="adv" src="../public/img/adv1.png" alt="hinh loi">
